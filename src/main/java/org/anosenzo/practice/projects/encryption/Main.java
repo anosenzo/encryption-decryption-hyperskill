@@ -1,4 +1,4 @@
-package encryptdecrypt;
+package org.anosenzo.practice.projects.encryption;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
